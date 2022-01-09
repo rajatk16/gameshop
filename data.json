@@ -1,0 +1,212 @@
+[
+  {
+    "id": "forza_horizon_5",
+    "title": "Forza Horizon 5",
+    "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.",
+    "rating": "92%",
+    "release_date": "2021-11-04",
+    "series": "Forza",
+    "developer": "Playground Games",
+    "publisher": "Xbox Game Studios",
+    "genres": [
+      "Racing Video Game",
+      "Adventure game",
+      "Simulation Video Game",
+      "Action game"
+    ],
+    "platforms": [
+      "Xbox Series X and Series S",
+      "Xbox One",
+      "Microsoft Windows",
+      "Android"
+    ],
+    "price": 59.99
+  },
+  {
+    "id": "deathloop",
+    "title": "Deathloop",
+    "description": "DEATHLOOP is a next-gen FPS, where two rival assassins are trapped in a mysterious timeloop on the island of Blackreef, doomed to repeat the same day for eternity.",
+    "rating": "87%",
+    "release_date": "2021-11-14",
+    "developer": "Arkane Studios",
+    "series": "Null",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "First-person shooter",
+      "Action-adventure game",
+      "Fighting game"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Microsoft Windows"
+    ],
+    "price": 59.99
+  },
+  {
+    "id": "halo_infinite",
+    "title": "Halo Infinite",
+    "description": "The legendary Halo series returns with the most expansive Master Chief campaign yet and a ground-breaking free to play multiplayer experience.",
+    "rating": "84%",
+    "release_date": "2021-08-12",
+    "developer": "343 Industries",
+    "series": "Halo",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "First-person shooter",
+      "Free-to-play",
+      "Adventure game"
+    ],
+    "platforms": [
+      "Xbox Series X and Series S",
+      "Xbox One",
+      "Microsoft Windows"
+    ],
+    "price": 0.00
+  },
+  {
+    "id": "hitman_3",
+    "title": "Hitman 3",
+    "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+    "rating": "82.4%",
+    "release_date": "2021-01-20",
+    "developer": "IO Interactive",
+    "series": "Hitman",
+    "publisher": "IO Interactive",
+    "genres": [
+      "Virtual reality",
+      "Stealth game",
+      "Shooter Video Game",
+      "Adventure game"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X and Series S",
+      "Nintendo Switch",
+      "Microsoft Windows",
+      "Google Stadia"
+    ],
+    "price": 59.99
+  },
+  {
+    "id": "inscryption",
+    "title": "Inscryption",
+    "description": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards...",
+    "rating": "84%",
+    "release_date": "2021-01-19",
+    "developer": "Daniel Mullins Games",
+    "series": "Null",
+    "publisher": "Devolver Digital",
+    "genres": [
+      "Roguelike",
+      "Horror game",
+      "Indie game",
+      "Deck-building game"
+    ],
+    "platforms": [
+      "Android",
+      "Microsoft Windows"
+    ],
+    "price": 19.99
+  },
+  {
+    "id": "it_takes_two",
+    "title": "It Takes Two",
+    "description": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Winner of GAME OF THE YEAR at the Game Awards 2021.",
+    "rating": "88%",
+    "release_date": "2021-03-26",
+    "developer": "Hazelight Studios",
+    "series": "Null",
+    "publisher": "EA Originals",
+    "genres": [
+      "Puzzle Video Game",
+      "Action-adventure game"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X and Series S",
+      "Microsoft Windows"
+    ],
+    "price": 19.99
+  },
+  {
+    "id": "metroid_dread",
+    "title": "Metroid Dread",
+    "description": "Upon investigating a mysterious transmission on Planet ZDR, Samus faces a mysterious foe that traps her in this dangerous world. The remote planet has been overrun by vicious alien lifeforms and murderous robots called E.M.M.I. Hunt or be hunted as you make your way through a labyrinth of enemies in Samus’ most intense side-scrolling adventure yet.",
+    "rating": "88%",
+    "release_date": "2021-10-08",
+    "developer": "Mercury Steam",
+    "series": "Metroid",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action-adventure game",
+      "Shooter Video Game"
+    ],
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "price": 59.99
+  },
+  {
+    "id": "ratchet_and_clank_rift_apart",
+    "title": "Ratchet and Clank: Rift Apart",
+    "description": "Upon investigating a mysterious transmission on Planet ZDR, Samus faces a mysterious foe that traps her in this dangerous world. The remote planet has been overrun by vicious alien lifeforms and murderous robots called E.M.M.I. Hunt or be hunted as you make your way through a labyrinth of enemies in Samus’ most intense side-scrolling adventure yet.",
+    "rating": "88%",
+    "release_date": "2021-06-11",
+    "developer": "Insomniac Games",
+    "series": "Ratchet & Clank",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Third-person shooter",
+      "Platform game"
+    ],
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "price": 59.99
+  },
+  {
+    "id": "resident_evil_village",
+    "title": "Resident Evil Village",
+    "description": "Experience survival horror like never before in the 8th major installment in the Resident Evil franchise - Resident Evil Village. With detailed graphics, intense first-person action and masterful storytelling, the terror has never felt more realistic.",
+    "rating": "82.75%",
+    "release_date": "2021-05-01",
+    "developer": "Capcom",
+    "series": "Resident Evil",
+    "publisher": "CAPCOM Co., Ltd.",
+    "genres": [
+      "Survival horror"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X and Series S",
+      "Xbox One",
+      "Microsoft Windows",
+      "Google Stadia"
+    ],
+    "price": 79.99
+  },
+  {
+    "id": "returnal",
+    "title": "Returnal",
+    "description": "After crash-landing on this shape-shifting world, Selene must search through the barren landscape of an ancient civilization for her escape. Isolated and alone, she finds herself fighting tooth and nail for survival. Again and again, she’s defeated – forced to restart her journey every time she dies.",
+    "rating": "85%",
+    "release_date": "2021-04-30",
+    "developer": "Housemarque",
+    "series": "Null",
+    "publisher": "Sony Interactive Entertainment",
+    "genres": [
+      "Roguelike",
+      "Third-person shooter",
+      "Adventure game"
+    ],
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "price": 67.30
+  }
+]
