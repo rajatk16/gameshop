@@ -20,7 +20,7 @@
       "Microsoft Windows",
       "Android"
     ],
-    "price": 59.99
+    "price": 4456
   },
   {
     "id": "deathloop",
@@ -40,7 +40,7 @@
       "PlayStation 5",
       "Microsoft Windows"
     ],
-    "price": 59.99
+    "price": 4456
   },
   {
     "id": "halo_infinite",
@@ -87,7 +87,7 @@
       "Microsoft Windows",
       "Google Stadia"
     ],
-    "price": 59.99
+    "price": 4456
   },
   {
     "id": "inscryption",
@@ -108,7 +108,7 @@
       "Android",
       "Microsoft Windows"
     ],
-    "price": 19.99
+    "price": 1485
   },
   {
     "id": "it_takes_two",
@@ -130,7 +130,7 @@
       "Xbox Series X and Series S",
       "Microsoft Windows"
     ],
-    "price": 19.99
+    "price": 1485
   },
   {
     "id": "metroid_dread",
@@ -148,7 +148,7 @@
     "platforms": [
       "Nintendo Switch"
     ],
-    "price": 59.99
+    "price": 4456
   },
   {
     "id": "ratchet_and_clank_rift_apart",
@@ -166,7 +166,7 @@
     "platforms": [
       "PlayStation 5"
     ],
-    "price": 59.99
+    "price": 4456
   },
   {
     "id": "resident_evil_village",
@@ -188,7 +188,7 @@
       "Microsoft Windows",
       "Google Stadia"
     ],
-    "price": 79.99
+    "price": 5941
   },
   {
     "id": "returnal",
@@ -207,6 +207,6 @@
     "platforms": [
       "PlayStation 5"
     ],
-    "price": 67.30
+    "price": 4999
   }
 ]
