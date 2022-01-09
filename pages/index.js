@@ -3,6 +3,7 @@ import Image from 'next/image';
 
 import data from '../data.json';
 import styles from '../styles/Home.module.css';
+import { initCheckout } from '../utils/stripe';
 
 
 export default function Home() {
@@ -34,6 +35,28 @@ export default function Home() {
                   height={300}
                 />
                 <h3>{game.title}</h3>
+                <div className={styles.priceRow}>
+                  <h4>
+                    {new Intl.NumberFormat("en-us", {
+                      style: 'currency',
+                      currency: "INR",
+                    })
+                    .format(game.price)}
+                  </h4>
+                  <button 
+                    className={styles.actions}
+                    onClick={() => initCheckout({
+                      lineItems: [
+                        {
+                          price: game.productId,
+                          quantity: 1
+                        }
+                      ]
+                    })}
+                  >
+                    Buy Now!
+                  </button>
+                </div>
                 <p>{game.description}</p>
               </div>
             </li>

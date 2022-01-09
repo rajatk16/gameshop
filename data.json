@@ -20,7 +20,8 @@
       "Microsoft Windows",
       "Android"
     ],
-    "price": 4456
+    "price": 4456,
+    "productId": "prod_Kvqa2ejsO80y1H"
   },
   {
     "id": "deathloop",
@@ -40,7 +41,8 @@
       "PlayStation 5",
       "Microsoft Windows"
     ],
-    "price": 4456
+    "price": 4456,
+    "productId": "prod_Kvqaj4OeZwHdBy"
   },
   {
     "id": "halo_infinite",
@@ -61,7 +63,8 @@
       "Xbox One",
       "Microsoft Windows"
     ],
-    "price": 0.00
+    "price": 0.00,
+    "productId": "prod_KvqbztdISEKKXq"
   },
   {
     "id": "hitman_3",
@@ -87,7 +90,8 @@
       "Microsoft Windows",
       "Google Stadia"
     ],
-    "price": 4456
+    "price": 4456,
+    "productId": "prod_KvqcmVA92YGsP8"
   },
   {
     "id": "inscryption",
@@ -108,7 +112,8 @@
       "Android",
       "Microsoft Windows"
     ],
-    "price": 1485
+    "price": 1485,
+    "productId": "prod_KvqeKSj4V4RNH3"
   },
   {
     "id": "it_takes_two",
@@ -130,7 +135,8 @@
       "Xbox Series X and Series S",
       "Microsoft Windows"
     ],
-    "price": 1485
+    "price": 1485,
+    "productId": "prod_Kvqfyh2sfthvlE"
   },
   {
     "id": "metroid_dread",
@@ -148,12 +154,13 @@
     "platforms": [
       "Nintendo Switch"
     ],
-    "price": 4456
+    "price": 4456,
+    "productId": "prod_KvqhcRsbXwfhsT"
   },
   {
     "id": "ratchet_and_clank_rift_apart",
     "title": "Ratchet and Clank: Rift Apart",
-    "description": "Upon investigating a mysterious transmission on Planet ZDR, Samus faces a mysterious foe that traps her in this dangerous world. The remote planet has been overrun by vicious alien lifeforms and murderous robots called E.M.M.I. Hunt or be hunted as you make your way through a labyrinth of enemies in Samus’ most intense side-scrolling adventure yet.",
+    "description": "Go dimension-hopping with Ratchet and Clank as they take on an evil emperor from another reality. Jump between action-packed worlds, and beyond at mind-blowing speeds",
     "rating": "88%",
     "release_date": "2021-06-11",
     "developer": "Insomniac Games",
@@ -166,7 +173,8 @@
     "platforms": [
       "PlayStation 5"
     ],
-    "price": 4456
+    "price": 4456,
+    "productId": "prod_Kvqj6AyD99Ncnk"
   },
   {
     "id": "resident_evil_village",
@@ -188,7 +196,8 @@
       "Microsoft Windows",
       "Google Stadia"
     ],
-    "price": 5941
+    "price": 5941,
+    "productId": "prod_KvqkgxwdMrId6O"
   },
   {
     "id": "returnal",
@@ -207,6 +216,7 @@
     "platforms": [
       "PlayStation 5"
     ],
-    "price": 4999
+    "price": 4999,
+    "productId": "prod_Kvql3B1agE4haC"
   }
 ]
